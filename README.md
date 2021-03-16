@@ -25,6 +25,7 @@ O app "tempo" mostra a previsão do tempo para sua localização e também permi
 
 ## 🚀 Como executar
 
+- Tenha o [Expo](https://expo.io/) instalado
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Crie uma conta na [HG Brasil](https://hgbrasil.com/)
